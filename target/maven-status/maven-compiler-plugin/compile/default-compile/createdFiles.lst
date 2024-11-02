@@ -1,0 +1,6 @@
+com\mycompany\middleware\RoleCheckMiddleware.class
+com\mycompany\middleware\ThrottlingMiddleware.class
+com\mycompany\middleware\UserExistsMiddleware.class
+com\mycompany\middleware\Middleware.class
+server\Server.class
+Demo.class
